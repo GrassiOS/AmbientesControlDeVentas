@@ -1,0 +1,40 @@
+D:/UABC-2023/SistemaControlDeVentas/Negocios/bin/Debug/Negocios.dll
+D:/UABC-2023/SistemaControlDeVentas/Negocios/bin/Debug/Negocios.pdb
+D:/UABC-2023/SistemaControlDeVentas/Negocios/bin/Debug/DatosSQL.dll
+D:/UABC-2023/SistemaControlDeVentas/Negocios/bin/Debug/Entidades.dll
+D:/UABC-2023/SistemaControlDeVentas/Negocios/bin/Debug/Entidades.pdb
+D:/UABC-2023/SistemaControlDeVentas/Negocios/obj/Debug/Negocios.csproj.AssemblyReference.cache
+D:/UABC-2023/SistemaControlDeVentas/Negocios/obj/Debug/Negocios.csproj.CoreCompileInputs.cache
+D:/UABC-2023/SistemaControlDeVentas/Negocios/obj/Debug/Negocios.csproj.CopyComplete
+D:/UABC-2023/SistemaControlDeVentas/Negocios/obj/Debug/Negocios.dll
+D:/UABC-2023/SistemaControlDeVentas/Negocios/obj/Debug/Negocios.pdb
+D:/Ambientes de programacion/SistemaControlDeVentas/SistemaControlDeVentas/Negocios/obj/Debug/Negocios.csproj.AssemblyReference.cache
+D:/Ambientes de programacion/SistemaControlDeVentas/SistemaControlDeVentas/Negocios/obj/Debug/Negocios.csproj.CoreCompileInputs.cache
+D:/Ambientes de programacion/SistemaControlDeVentas/SistemaControlDeVentas/Negocios/obj/Debug/Negocios.dll
+D:/Ambientes de programacion/SistemaControlDeVentas/SistemaControlDeVentas/Negocios/obj/Debug/Negocios.pdb
+D:/Ambientes de programacion/SistemaControlDeVentas/SistemaControlDeVentas/Negocios/bin/Debug/Negocios.dll
+D:/Ambientes de programacion/SistemaControlDeVentas/SistemaControlDeVentas/Negocios/bin/Debug/Negocios.pdb
+D:/Ambientes de programacion/SistemaControlDeVentas/SistemaControlDeVentas/Negocios/bin/Debug/DatosSQL.dll
+D:/Ambientes de programacion/SistemaControlDeVentas/SistemaControlDeVentas/Negocios/bin/Debug/Entidades.dll
+D:/Ambientes de programacion/SistemaControlDeVentas/SistemaControlDeVentas/Negocios/bin/Debug/Entidades.pdb
+D:/Ambientes de programacion/SistemaControlDeVentas/SistemaControlDeVentas/Negocios/obj/Debug/Negocios.csproj.CopyComplete
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/SistemaControlDeVentas/Negocios/bin/Debug/Negocios.dll
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/SistemaControlDeVentas/Negocios/bin/Debug/Negocios.pdb
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/SistemaControlDeVentas/Negocios/bin/Debug/DatosSQL.dll
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/SistemaControlDeVentas/Negocios/bin/Debug/Entidades.dll
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/SistemaControlDeVentas/Negocios/bin/Debug/Entidades.pdb
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/SistemaControlDeVentas/Negocios/obj/Debug/Negocios.csproj.AssemblyReference.cache
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/SistemaControlDeVentas/Negocios/obj/Debug/Negocios.csproj.CoreCompileInputs.cache
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/SistemaControlDeVentas/Negocios/obj/Debug/Negocios.csproj.CopyComplete
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/SistemaControlDeVentas/Negocios/obj/Debug/Negocios.dll
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/SistemaControlDeVentas/Negocios/obj/Debug/Negocios.pdb
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/CTVMartin/Negocios/bin/Debug/Negocios.dll
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/CTVMartin/Negocios/bin/Debug/Negocios.pdb
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/CTVMartin/Negocios/bin/Debug/DatosSQL.dll
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/CTVMartin/Negocios/bin/Debug/Entidades.dll
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/CTVMartin/Negocios/bin/Debug/Entidades.pdb
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/CTVMartin/Negocios/obj/Debug/Negocios.csproj.AssemblyReference.cache
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/CTVMartin/Negocios/obj/Debug/Negocios.csproj.CoreCompileInputs.cache
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/CTVMartin/Negocios/obj/Debug/Negocios.csproj.CopyComplete
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/CTVMartin/Negocios/obj/Debug/Negocios.dll
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/CTVMartin/Negocios/obj/Debug/Negocios.pdb

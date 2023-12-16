@@ -1,0 +1,64 @@
+/* Estilos generales */
+body {
+    background-color: #283046;
+    color: #fff;
+    font-family: 'BlexMono Nerd Font', sans-serif;
+    margin: 0;
+}
+
+/* Estilos del contenedor principal */
+.container {
+    padding: 50px;
+    border-radius: 5px;
+    margin: 20px auto;
+    background-color: #394867;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+
+/* Estilos para los títulos */
+h1, h2, h3, h4, h5, h6 {
+    color: #dfdfdf;
+    text-align: center;
+}
+
+main {
+    flex-grow: 1;
+    padding: 20px;
+    transition: margin-left 0.5s;
+}
+
+/* Estilos para la barra lateral */
+.sidebar {
+    width: 20px;
+    height: 100%;
+    background-color: #394867;
+    border-top-right-radius: 20px; /* Redondear esquina superior derecha */
+    padding-top: 20px;
+    overflow-x: hidden;
+    transition: width 0.5s ease; /* Suavizar la transición */
+    position: fixed;
+    z-index: 1;
+}
+
+/* Ajuste: solo muestra la barra lateral cuando está en estado de hover */
+.sidebar:hover {
+    width: 250px;
+}
+
+/* Ajuste: muestra los enlaces de la barra lateral solo cuando está en estado de hover */
+.sidebar:hover a {
+    display: block;
+}
+
+.sidebar a {
+    padding: 10px;
+    text-decoration: none;
+    font-size: 18px;
+    color: white;
+    display: none; /* Inicialmente oculta */
+    transition: 0.3s;
+}
+
+.sidebar a:hover {
+    background-color: #555;
+}

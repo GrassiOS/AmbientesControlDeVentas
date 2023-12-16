@@ -1,0 +1,24 @@
+D:/UABC-2023/SistemaControlDeVentas/Entidades/bin/Debug/Entidades.dll
+D:/UABC-2023/SistemaControlDeVentas/Entidades/bin/Debug/Entidades.pdb
+D:/UABC-2023/SistemaControlDeVentas/Entidades/obj/Debug/Entidades.csproj.AssemblyReference.cache
+D:/UABC-2023/SistemaControlDeVentas/Entidades/obj/Debug/Entidades.csproj.CoreCompileInputs.cache
+D:/UABC-2023/SistemaControlDeVentas/Entidades/obj/Debug/Entidades.dll
+D:/UABC-2023/SistemaControlDeVentas/Entidades/obj/Debug/Entidades.pdb
+D:/Ambientes de programacion/SistemaControlDeVentas/SistemaControlDeVentas/Entidades/obj/Debug/Entidades.csproj.AssemblyReference.cache
+D:/Ambientes de programacion/SistemaControlDeVentas/SistemaControlDeVentas/Entidades/obj/Debug/Entidades.csproj.CoreCompileInputs.cache
+D:/Ambientes de programacion/SistemaControlDeVentas/SistemaControlDeVentas/Entidades/obj/Debug/Entidades.dll
+D:/Ambientes de programacion/SistemaControlDeVentas/SistemaControlDeVentas/Entidades/obj/Debug/Entidades.pdb
+D:/Ambientes de programacion/SistemaControlDeVentas/SistemaControlDeVentas/Entidades/bin/Debug/Entidades.dll
+D:/Ambientes de programacion/SistemaControlDeVentas/SistemaControlDeVentas/Entidades/bin/Debug/Entidades.pdb
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/SistemaControlDeVentas/Entidades/obj/Debug/Entidades.dll
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/SistemaControlDeVentas/Entidades/obj/Debug/Entidades.pdb
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/SistemaControlDeVentas/Entidades/bin/Debug/Entidades.dll
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/SistemaControlDeVentas/Entidades/bin/Debug/Entidades.pdb
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/SistemaControlDeVentas/Entidades/obj/Debug/Entidades.csproj.AssemblyReference.cache
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/SistemaControlDeVentas/Entidades/obj/Debug/Entidades.csproj.CoreCompileInputs.cache
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/CTVMartin/Entidades/bin/Debug/Entidades.dll
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/CTVMartin/Entidades/bin/Debug/Entidades.pdb
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/CTVMartin/Entidades/obj/Debug/Entidades.csproj.AssemblyReference.cache
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/CTVMartin/Entidades/obj/Debug/Entidades.csproj.CoreCompileInputs.cache
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/CTVMartin/Entidades/obj/Debug/Entidades.dll
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/CTVMartin/Entidades/obj/Debug/Entidades.pdb

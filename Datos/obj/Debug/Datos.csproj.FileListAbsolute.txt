@@ -1,0 +1,9 @@
+D:\UABC-2023\SistemaControlDeVentas\Datos\bin\Debug\Datos.dll
+D:\UABC-2023\SistemaControlDeVentas\Datos\bin\Debug\Datos.pdb
+D:\UABC-2023\SistemaControlDeVentas\Datos\bin\Debug\Entidades.dll
+D:\UABC-2023\SistemaControlDeVentas\Datos\bin\Debug\Entidades.pdb
+D:\UABC-2023\SistemaControlDeVentas\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+D:\UABC-2023\SistemaControlDeVentas\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+D:\UABC-2023\SistemaControlDeVentas\Datos\obj\Debug\Datos.csproj.CopyComplete
+D:\UABC-2023\SistemaControlDeVentas\Datos\obj\Debug\Datos.dll
+D:\UABC-2023\SistemaControlDeVentas\Datos\obj\Debug\Datos.pdb

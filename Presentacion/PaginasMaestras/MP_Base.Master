@@ -1,0 +1,43 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MP_Base.master.cs" Inherits="Presentacion.PaginasMaestras.MP_Base" %>
+
+<!DOCTYPE html>
+
+<html lang="es-mx">
+<head runat="server">
+  <title>FIAD-UABC</title>
+
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, shrink-to-fit=no, user-scalable=no, initial-scale=1.0, maximum-scale=1.0. minimum-scale=1.0">
+
+  <link href="../Recursos/CSS/bootstrap.css" rel="stylesheet" />
+  <link href="../Recursos/CSS/EstilosCloudFIAD.css" rel="stylesheet" />
+  <asp:ContentPlaceHolder ID="head" runat="server">
+  </asp:ContentPlaceHolder>
+</head>
+<body>
+  <form id="form1" runat="server">
+    <asp:ScriptManager ID="ScriptManager1" runat="server">
+    </asp:ScriptManager>
+
+    <div class="container-fluid">
+      <header class="encabezado-principal">
+        <div class="row">
+          <div class="col" style="text-align: center">
+            <img src="../Recursos/Imagenes/logo.png" class="float-none banner-fiad img-fluid">
+            <h5>
+              <asp:Label ID="lblNombreSistema" runat="server" CssClass="text-warning mt-0"></asp:Label>
+            </h5>
+          </div>
+        </div>
+      </header>
+      <main class="container-fluid">
+        <div>
+          <asp:ContentPlaceHolder ID="cphContenedorBase" runat="server">
+          </asp:ContentPlaceHolder>
+        </div>
+      </main>
+    </div>
+  </form>
+</body>
+</html>

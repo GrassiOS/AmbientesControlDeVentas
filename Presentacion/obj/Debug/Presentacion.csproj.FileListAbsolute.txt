@@ -1,0 +1,254 @@
+D:/UABC-2023/SistemaControlDeVentas/Presentacion/bin/Presentacion.dll.config
+D:/UABC-2023/SistemaControlDeVentas/Presentacion/bin/Presentacion.dll
+D:/UABC-2023/SistemaControlDeVentas/Presentacion/bin/Presentacion.pdb
+D:/UABC-2023/SistemaControlDeVentas/Presentacion/bin/roslyn/csc.exe
+D:/UABC-2023/SistemaControlDeVentas/Presentacion/bin/roslyn/csc.exe.config
+D:/UABC-2023/SistemaControlDeVentas/Presentacion/bin/roslyn/csc.rsp
+D:/UABC-2023/SistemaControlDeVentas/Presentacion/bin/roslyn/csi.exe
+D:/UABC-2023/SistemaControlDeVentas/Presentacion/bin/roslyn/csi.exe.config
+D:/UABC-2023/SistemaControlDeVentas/Presentacion/bin/roslyn/csi.rsp
+D:/UABC-2023/SistemaControlDeVentas/Presentacion/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+D:/UABC-2023/SistemaControlDeVentas/Presentacion/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+D:/UABC-2023/SistemaControlDeVentas/Presentacion/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:/UABC-2023/SistemaControlDeVentas/Presentacion/bin/roslyn/Microsoft.CodeAnalysis.dll
+D:/UABC-2023/SistemaControlDeVentas/Presentacion/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
+D:/UABC-2023/SistemaControlDeVentas/Presentacion/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+D:/UABC-2023/SistemaControlDeVentas/Presentacion/bin/roslyn/Microsoft.CSharp.Core.targets
+D:/UABC-2023/SistemaControlDeVentas/Presentacion/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+D:/UABC-2023/SistemaControlDeVentas/Presentacion/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
+D:/UABC-2023/SistemaControlDeVentas/Presentacion/bin/roslyn/Microsoft.Managed.Core.targets
+D:/UABC-2023/SistemaControlDeVentas/Presentacion/bin/roslyn/Microsoft.VisualBasic.Core.targets
+D:/UABC-2023/SistemaControlDeVentas/Presentacion/bin/roslyn/Microsoft.Win32.Primitives.dll
+D:/UABC-2023/SistemaControlDeVentas/Presentacion/bin/roslyn/System.AppContext.dll
+D:/UABC-2023/SistemaControlDeVentas/Presentacion/bin/roslyn/System.Collections.Immutable.dll
+D:/UABC-2023/SistemaControlDeVentas/Presentacion/bin/roslyn/System.Console.dll
+D:/UABC-2023/SistemaControlDeVentas/Presentacion/bin/roslyn/System.Diagnostics.DiagnosticSource.dll
+D:/UABC-2023/SistemaControlDeVentas/Presentacion/bin/roslyn/System.Diagnostics.FileVersionInfo.dll
+D:/UABC-2023/SistemaControlDeVentas/Presentacion/bin/roslyn/System.Diagnostics.StackTrace.dll
+D:/UABC-2023/SistemaControlDeVentas/Presentacion/bin/roslyn/System.Globalization.Calendars.dll
+D:/UABC-2023/SistemaControlDeVentas/Presentacion/bin/roslyn/System.IO.Compression.dll
+D:/UABC-2023/SistemaControlDeVentas/Presentacion/bin/roslyn/System.IO.Compression.ZipFile.dll
+D:/UABC-2023/SistemaControlDeVentas/Presentacion/bin/roslyn/System.IO.FileSystem.dll
+D:/UABC-2023/SistemaControlDeVentas/Presentacion/bin/roslyn/System.IO.FileSystem.Primitives.dll
+D:/UABC-2023/SistemaControlDeVentas/Presentacion/bin/roslyn/System.Net.Http.dll
+D:/UABC-2023/SistemaControlDeVentas/Presentacion/bin/roslyn/System.Net.Sockets.dll
+D:/UABC-2023/SistemaControlDeVentas/Presentacion/bin/roslyn/System.Reflection.Metadata.dll
+D:/UABC-2023/SistemaControlDeVentas/Presentacion/bin/roslyn/System.Runtime.InteropServices.RuntimeInformation.dll
+D:/UABC-2023/SistemaControlDeVentas/Presentacion/bin/roslyn/System.Security.Cryptography.Algorithms.dll
+D:/UABC-2023/SistemaControlDeVentas/Presentacion/bin/roslyn/System.Security.Cryptography.Encoding.dll
+D:/UABC-2023/SistemaControlDeVentas/Presentacion/bin/roslyn/System.Security.Cryptography.Primitives.dll
+D:/UABC-2023/SistemaControlDeVentas/Presentacion/bin/roslyn/System.Security.Cryptography.X509Certificates.dll
+D:/UABC-2023/SistemaControlDeVentas/Presentacion/bin/roslyn/System.Text.Encoding.CodePages.dll
+D:/UABC-2023/SistemaControlDeVentas/Presentacion/bin/roslyn/System.Threading.Tasks.Extensions.dll
+D:/UABC-2023/SistemaControlDeVentas/Presentacion/bin/roslyn/System.ValueTuple.dll
+D:/UABC-2023/SistemaControlDeVentas/Presentacion/bin/roslyn/System.Xml.ReaderWriter.dll
+D:/UABC-2023/SistemaControlDeVentas/Presentacion/bin/roslyn/System.Xml.XmlDocument.dll
+D:/UABC-2023/SistemaControlDeVentas/Presentacion/bin/roslyn/System.Xml.XPath.dll
+D:/UABC-2023/SistemaControlDeVentas/Presentacion/bin/roslyn/System.Xml.XPath.XDocument.dll
+D:/UABC-2023/SistemaControlDeVentas/Presentacion/bin/roslyn/vbc.exe
+D:/UABC-2023/SistemaControlDeVentas/Presentacion/bin/roslyn/vbc.exe.config
+D:/UABC-2023/SistemaControlDeVentas/Presentacion/bin/roslyn/vbc.rsp
+D:/UABC-2023/SistemaControlDeVentas/Presentacion/bin/roslyn/VBCSCompiler.exe
+D:/UABC-2023/SistemaControlDeVentas/Presentacion/bin/roslyn/VBCSCompiler.exe.config
+D:/UABC-2023/SistemaControlDeVentas/Presentacion/bin/DatosSQL.dll
+D:/UABC-2023/SistemaControlDeVentas/Presentacion/bin/Entidades.dll
+D:/UABC-2023/SistemaControlDeVentas/Presentacion/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:/UABC-2023/SistemaControlDeVentas/Presentacion/bin/Negocios.dll
+D:/UABC-2023/SistemaControlDeVentas/Presentacion/bin/Entidades.pdb
+D:/UABC-2023/SistemaControlDeVentas/Presentacion/bin/Negocios.pdb
+D:/UABC-2023/SistemaControlDeVentas/Presentacion/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:/UABC-2023/SistemaControlDeVentas/Presentacion/obj/Debug/Presentacion.csproj.AssemblyReference.cache
+D:/UABC-2023/SistemaControlDeVentas/Presentacion/obj/Debug/Presentacion.csproj.CoreCompileInputs.cache
+D:/UABC-2023/SistemaControlDeVentas/Presentacion/obj/Debug/Presentacion.csproj.CopyComplete
+D:/UABC-2023/SistemaControlDeVentas/Presentacion/obj/Debug/Presentacion.dll
+D:/UABC-2023/SistemaControlDeVentas/Presentacion/obj/Debug/Presentacion.pdb
+D:/Ambientes de programacion/SistemaControlDeVentas/SistemaControlDeVentas/Presentacion/bin/Presentacion.dll.config
+D:/Ambientes de programacion/SistemaControlDeVentas/SistemaControlDeVentas/Presentacion/bin/Presentacion.dll
+D:/Ambientes de programacion/SistemaControlDeVentas/SistemaControlDeVentas/Presentacion/bin/Presentacion.pdb
+D:/Ambientes de programacion/SistemaControlDeVentas/SistemaControlDeVentas/Presentacion/bin/roslyn/csc.exe
+D:/Ambientes de programacion/SistemaControlDeVentas/SistemaControlDeVentas/Presentacion/bin/roslyn/csc.exe.config
+D:/Ambientes de programacion/SistemaControlDeVentas/SistemaControlDeVentas/Presentacion/bin/roslyn/csc.rsp
+D:/Ambientes de programacion/SistemaControlDeVentas/SistemaControlDeVentas/Presentacion/bin/roslyn/csi.exe
+D:/Ambientes de programacion/SistemaControlDeVentas/SistemaControlDeVentas/Presentacion/bin/roslyn/csi.exe.config
+D:/Ambientes de programacion/SistemaControlDeVentas/SistemaControlDeVentas/Presentacion/bin/roslyn/csi.rsp
+D:/Ambientes de programacion/SistemaControlDeVentas/SistemaControlDeVentas/Presentacion/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+D:/Ambientes de programacion/SistemaControlDeVentas/SistemaControlDeVentas/Presentacion/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+D:/Ambientes de programacion/SistemaControlDeVentas/SistemaControlDeVentas/Presentacion/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:/Ambientes de programacion/SistemaControlDeVentas/SistemaControlDeVentas/Presentacion/bin/roslyn/Microsoft.CodeAnalysis.dll
+D:/Ambientes de programacion/SistemaControlDeVentas/SistemaControlDeVentas/Presentacion/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
+D:/Ambientes de programacion/SistemaControlDeVentas/SistemaControlDeVentas/Presentacion/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+D:/Ambientes de programacion/SistemaControlDeVentas/SistemaControlDeVentas/Presentacion/bin/roslyn/Microsoft.CSharp.Core.targets
+D:/Ambientes de programacion/SistemaControlDeVentas/SistemaControlDeVentas/Presentacion/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+D:/Ambientes de programacion/SistemaControlDeVentas/SistemaControlDeVentas/Presentacion/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
+D:/Ambientes de programacion/SistemaControlDeVentas/SistemaControlDeVentas/Presentacion/bin/roslyn/Microsoft.Managed.Core.targets
+D:/Ambientes de programacion/SistemaControlDeVentas/SistemaControlDeVentas/Presentacion/bin/roslyn/Microsoft.VisualBasic.Core.targets
+D:/Ambientes de programacion/SistemaControlDeVentas/SistemaControlDeVentas/Presentacion/bin/roslyn/Microsoft.Win32.Primitives.dll
+D:/Ambientes de programacion/SistemaControlDeVentas/SistemaControlDeVentas/Presentacion/bin/roslyn/System.AppContext.dll
+D:/Ambientes de programacion/SistemaControlDeVentas/SistemaControlDeVentas/Presentacion/bin/roslyn/System.Collections.Immutable.dll
+D:/Ambientes de programacion/SistemaControlDeVentas/SistemaControlDeVentas/Presentacion/bin/roslyn/System.Console.dll
+D:/Ambientes de programacion/SistemaControlDeVentas/SistemaControlDeVentas/Presentacion/bin/roslyn/System.Diagnostics.DiagnosticSource.dll
+D:/Ambientes de programacion/SistemaControlDeVentas/SistemaControlDeVentas/Presentacion/bin/roslyn/System.Diagnostics.FileVersionInfo.dll
+D:/Ambientes de programacion/SistemaControlDeVentas/SistemaControlDeVentas/Presentacion/bin/roslyn/System.Diagnostics.StackTrace.dll
+D:/Ambientes de programacion/SistemaControlDeVentas/SistemaControlDeVentas/Presentacion/bin/roslyn/System.Globalization.Calendars.dll
+D:/Ambientes de programacion/SistemaControlDeVentas/SistemaControlDeVentas/Presentacion/bin/roslyn/System.IO.Compression.dll
+D:/Ambientes de programacion/SistemaControlDeVentas/SistemaControlDeVentas/Presentacion/bin/roslyn/System.IO.Compression.ZipFile.dll
+D:/Ambientes de programacion/SistemaControlDeVentas/SistemaControlDeVentas/Presentacion/bin/roslyn/System.IO.FileSystem.dll
+D:/Ambientes de programacion/SistemaControlDeVentas/SistemaControlDeVentas/Presentacion/bin/roslyn/System.IO.FileSystem.Primitives.dll
+D:/Ambientes de programacion/SistemaControlDeVentas/SistemaControlDeVentas/Presentacion/bin/roslyn/System.Net.Http.dll
+D:/Ambientes de programacion/SistemaControlDeVentas/SistemaControlDeVentas/Presentacion/bin/roslyn/System.Net.Sockets.dll
+D:/Ambientes de programacion/SistemaControlDeVentas/SistemaControlDeVentas/Presentacion/bin/roslyn/System.Reflection.Metadata.dll
+D:/Ambientes de programacion/SistemaControlDeVentas/SistemaControlDeVentas/Presentacion/bin/roslyn/System.Runtime.InteropServices.RuntimeInformation.dll
+D:/Ambientes de programacion/SistemaControlDeVentas/SistemaControlDeVentas/Presentacion/bin/roslyn/System.Security.Cryptography.Algorithms.dll
+D:/Ambientes de programacion/SistemaControlDeVentas/SistemaControlDeVentas/Presentacion/bin/roslyn/System.Security.Cryptography.Encoding.dll
+D:/Ambientes de programacion/SistemaControlDeVentas/SistemaControlDeVentas/Presentacion/bin/roslyn/System.Security.Cryptography.Primitives.dll
+D:/Ambientes de programacion/SistemaControlDeVentas/SistemaControlDeVentas/Presentacion/bin/roslyn/System.Security.Cryptography.X509Certificates.dll
+D:/Ambientes de programacion/SistemaControlDeVentas/SistemaControlDeVentas/Presentacion/bin/roslyn/System.Text.Encoding.CodePages.dll
+D:/Ambientes de programacion/SistemaControlDeVentas/SistemaControlDeVentas/Presentacion/bin/roslyn/System.Threading.Tasks.Extensions.dll
+D:/Ambientes de programacion/SistemaControlDeVentas/SistemaControlDeVentas/Presentacion/bin/roslyn/System.ValueTuple.dll
+D:/Ambientes de programacion/SistemaControlDeVentas/SistemaControlDeVentas/Presentacion/bin/roslyn/System.Xml.ReaderWriter.dll
+D:/Ambientes de programacion/SistemaControlDeVentas/SistemaControlDeVentas/Presentacion/bin/roslyn/System.Xml.XmlDocument.dll
+D:/Ambientes de programacion/SistemaControlDeVentas/SistemaControlDeVentas/Presentacion/bin/roslyn/System.Xml.XPath.dll
+D:/Ambientes de programacion/SistemaControlDeVentas/SistemaControlDeVentas/Presentacion/bin/roslyn/System.Xml.XPath.XDocument.dll
+D:/Ambientes de programacion/SistemaControlDeVentas/SistemaControlDeVentas/Presentacion/bin/roslyn/vbc.exe
+D:/Ambientes de programacion/SistemaControlDeVentas/SistemaControlDeVentas/Presentacion/bin/roslyn/vbc.exe.config
+D:/Ambientes de programacion/SistemaControlDeVentas/SistemaControlDeVentas/Presentacion/bin/roslyn/vbc.rsp
+D:/Ambientes de programacion/SistemaControlDeVentas/SistemaControlDeVentas/Presentacion/bin/roslyn/VBCSCompiler.exe
+D:/Ambientes de programacion/SistemaControlDeVentas/SistemaControlDeVentas/Presentacion/bin/roslyn/VBCSCompiler.exe.config
+D:/Ambientes de programacion/SistemaControlDeVentas/SistemaControlDeVentas/Presentacion/bin/DatosSQL.dll
+D:/Ambientes de programacion/SistemaControlDeVentas/SistemaControlDeVentas/Presentacion/bin/Entidades.dll
+D:/Ambientes de programacion/SistemaControlDeVentas/SistemaControlDeVentas/Presentacion/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:/Ambientes de programacion/SistemaControlDeVentas/SistemaControlDeVentas/Presentacion/bin/Negocios.dll
+D:/Ambientes de programacion/SistemaControlDeVentas/SistemaControlDeVentas/Presentacion/bin/Entidades.pdb
+D:/Ambientes de programacion/SistemaControlDeVentas/SistemaControlDeVentas/Presentacion/bin/Negocios.pdb
+D:/Ambientes de programacion/SistemaControlDeVentas/SistemaControlDeVentas/Presentacion/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:/Ambientes de programacion/SistemaControlDeVentas/SistemaControlDeVentas/Presentacion/obj/Debug/Presentacion.csproj.AssemblyReference.cache
+D:/Ambientes de programacion/SistemaControlDeVentas/SistemaControlDeVentas/Presentacion/obj/Debug/Presentacion.csproj.CoreCompileInputs.cache
+D:/Ambientes de programacion/SistemaControlDeVentas/SistemaControlDeVentas/Presentacion/obj/Debug/Presentacion.csproj.CopyComplete
+D:/Ambientes de programacion/SistemaControlDeVentas/SistemaControlDeVentas/Presentacion/obj/Debug/Presentacion.dll
+D:/Ambientes de programacion/SistemaControlDeVentas/SistemaControlDeVentas/Presentacion/obj/Debug/Presentacion.pdb
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/SistemaControlDeVentas/Presentacion/bin/Presentacion.dll
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/SistemaControlDeVentas/Presentacion/bin/Presentacion.pdb
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/SistemaControlDeVentas/Presentacion/bin/roslyn/csc.exe
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/SistemaControlDeVentas/Presentacion/bin/roslyn/csc.exe.config
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/SistemaControlDeVentas/Presentacion/bin/roslyn/csc.rsp
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/SistemaControlDeVentas/Presentacion/bin/roslyn/csi.exe
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/SistemaControlDeVentas/Presentacion/bin/roslyn/csi.exe.config
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/SistemaControlDeVentas/Presentacion/bin/roslyn/csi.rsp
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/SistemaControlDeVentas/Presentacion/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/SistemaControlDeVentas/Presentacion/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/SistemaControlDeVentas/Presentacion/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/SistemaControlDeVentas/Presentacion/bin/roslyn/Microsoft.CodeAnalysis.dll
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/SistemaControlDeVentas/Presentacion/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/SistemaControlDeVentas/Presentacion/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/SistemaControlDeVentas/Presentacion/bin/roslyn/Microsoft.CSharp.Core.targets
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/SistemaControlDeVentas/Presentacion/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/SistemaControlDeVentas/Presentacion/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/SistemaControlDeVentas/Presentacion/bin/roslyn/Microsoft.Managed.Core.targets
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/SistemaControlDeVentas/Presentacion/bin/roslyn/Microsoft.VisualBasic.Core.targets
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/SistemaControlDeVentas/Presentacion/bin/roslyn/Microsoft.Win32.Primitives.dll
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/SistemaControlDeVentas/Presentacion/bin/roslyn/System.AppContext.dll
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/SistemaControlDeVentas/Presentacion/bin/roslyn/System.Collections.Immutable.dll
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/SistemaControlDeVentas/Presentacion/bin/roslyn/System.Console.dll
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/SistemaControlDeVentas/Presentacion/bin/roslyn/System.Diagnostics.DiagnosticSource.dll
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/SistemaControlDeVentas/Presentacion/bin/roslyn/System.Diagnostics.FileVersionInfo.dll
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/SistemaControlDeVentas/Presentacion/bin/roslyn/System.Diagnostics.StackTrace.dll
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/SistemaControlDeVentas/Presentacion/bin/roslyn/System.Globalization.Calendars.dll
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/SistemaControlDeVentas/Presentacion/bin/roslyn/System.IO.Compression.dll
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/SistemaControlDeVentas/Presentacion/bin/roslyn/System.IO.Compression.ZipFile.dll
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/SistemaControlDeVentas/Presentacion/bin/roslyn/System.IO.FileSystem.dll
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/SistemaControlDeVentas/Presentacion/bin/roslyn/System.IO.FileSystem.Primitives.dll
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/SistemaControlDeVentas/Presentacion/bin/roslyn/System.Net.Http.dll
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/SistemaControlDeVentas/Presentacion/bin/roslyn/System.Net.Sockets.dll
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/SistemaControlDeVentas/Presentacion/bin/roslyn/System.Reflection.Metadata.dll
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/SistemaControlDeVentas/Presentacion/bin/roslyn/System.Runtime.InteropServices.RuntimeInformation.dll
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/SistemaControlDeVentas/Presentacion/bin/roslyn/System.Security.Cryptography.Algorithms.dll
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/SistemaControlDeVentas/Presentacion/bin/roslyn/System.Security.Cryptography.Encoding.dll
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/SistemaControlDeVentas/Presentacion/bin/roslyn/System.Security.Cryptography.Primitives.dll
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/SistemaControlDeVentas/Presentacion/bin/roslyn/System.Security.Cryptography.X509Certificates.dll
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/SistemaControlDeVentas/Presentacion/bin/roslyn/System.Text.Encoding.CodePages.dll
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/SistemaControlDeVentas/Presentacion/bin/roslyn/System.Threading.Tasks.Extensions.dll
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/SistemaControlDeVentas/Presentacion/bin/roslyn/System.ValueTuple.dll
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/SistemaControlDeVentas/Presentacion/bin/roslyn/System.Xml.ReaderWriter.dll
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/SistemaControlDeVentas/Presentacion/bin/roslyn/System.Xml.XmlDocument.dll
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/SistemaControlDeVentas/Presentacion/bin/roslyn/System.Xml.XPath.dll
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/SistemaControlDeVentas/Presentacion/bin/roslyn/System.Xml.XPath.XDocument.dll
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/SistemaControlDeVentas/Presentacion/bin/roslyn/vbc.exe
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/SistemaControlDeVentas/Presentacion/bin/roslyn/vbc.exe.config
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/SistemaControlDeVentas/Presentacion/bin/roslyn/vbc.rsp
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/SistemaControlDeVentas/Presentacion/bin/roslyn/VBCSCompiler.exe
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/SistemaControlDeVentas/Presentacion/bin/roslyn/VBCSCompiler.exe.config
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/SistemaControlDeVentas/Presentacion/bin/DatosSQL.dll
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/SistemaControlDeVentas/Presentacion/bin/Entidades.dll
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/SistemaControlDeVentas/Presentacion/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/SistemaControlDeVentas/Presentacion/bin/Negocios.dll
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/SistemaControlDeVentas/Presentacion/bin/Entidades.pdb
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/SistemaControlDeVentas/Presentacion/bin/Negocios.pdb
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/SistemaControlDeVentas/Presentacion/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/SistemaControlDeVentas/Presentacion/obj/Debug/Presentacion.csproj.AssemblyReference.cache
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/SistemaControlDeVentas/Presentacion/obj/Debug/Presentacion.csproj.CoreCompileInputs.cache
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/SistemaControlDeVentas/Presentacion/obj/Debug/Presentacion.csproj.CopyComplete
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/SistemaControlDeVentas/Presentacion/obj/Debug/Presentacion.dll
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/SistemaControlDeVentas/Presentacion/obj/Debug/Presentacion.pdb
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/CTVMartin/Presentacion/bin/Presentacion.dll
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/CTVMartin/Presentacion/bin/Presentacion.pdb
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/CTVMartin/Presentacion/bin/roslyn/csc.exe
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/CTVMartin/Presentacion/bin/roslyn/csc.exe.config
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/CTVMartin/Presentacion/bin/roslyn/csc.rsp
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/CTVMartin/Presentacion/bin/roslyn/csi.exe
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/CTVMartin/Presentacion/bin/roslyn/csi.exe.config
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/CTVMartin/Presentacion/bin/roslyn/csi.rsp
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/CTVMartin/Presentacion/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/CTVMartin/Presentacion/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/CTVMartin/Presentacion/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/CTVMartin/Presentacion/bin/roslyn/Microsoft.CodeAnalysis.dll
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/CTVMartin/Presentacion/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/CTVMartin/Presentacion/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/CTVMartin/Presentacion/bin/roslyn/Microsoft.CSharp.Core.targets
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/CTVMartin/Presentacion/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/CTVMartin/Presentacion/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/CTVMartin/Presentacion/bin/roslyn/Microsoft.Managed.Core.targets
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/CTVMartin/Presentacion/bin/roslyn/Microsoft.VisualBasic.Core.targets
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/CTVMartin/Presentacion/bin/roslyn/Microsoft.Win32.Primitives.dll
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/CTVMartin/Presentacion/bin/roslyn/System.AppContext.dll
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/CTVMartin/Presentacion/bin/roslyn/System.Collections.Immutable.dll
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/CTVMartin/Presentacion/bin/roslyn/System.Console.dll
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/CTVMartin/Presentacion/bin/roslyn/System.Diagnostics.DiagnosticSource.dll
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/CTVMartin/Presentacion/bin/roslyn/System.Diagnostics.FileVersionInfo.dll
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/CTVMartin/Presentacion/bin/roslyn/System.Diagnostics.StackTrace.dll
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/CTVMartin/Presentacion/bin/roslyn/System.Globalization.Calendars.dll
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/CTVMartin/Presentacion/bin/roslyn/System.IO.Compression.dll
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/CTVMartin/Presentacion/bin/roslyn/System.IO.Compression.ZipFile.dll
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/CTVMartin/Presentacion/bin/roslyn/System.IO.FileSystem.dll
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/CTVMartin/Presentacion/bin/roslyn/System.IO.FileSystem.Primitives.dll
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/CTVMartin/Presentacion/bin/roslyn/System.Net.Http.dll
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/CTVMartin/Presentacion/bin/roslyn/System.Net.Sockets.dll
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/CTVMartin/Presentacion/bin/roslyn/System.Reflection.Metadata.dll
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/CTVMartin/Presentacion/bin/roslyn/System.Runtime.InteropServices.RuntimeInformation.dll
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/CTVMartin/Presentacion/bin/roslyn/System.Security.Cryptography.Algorithms.dll
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/CTVMartin/Presentacion/bin/roslyn/System.Security.Cryptography.Encoding.dll
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/CTVMartin/Presentacion/bin/roslyn/System.Security.Cryptography.Primitives.dll
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/CTVMartin/Presentacion/bin/roslyn/System.Security.Cryptography.X509Certificates.dll
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/CTVMartin/Presentacion/bin/roslyn/System.Text.Encoding.CodePages.dll
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/CTVMartin/Presentacion/bin/roslyn/System.Threading.Tasks.Extensions.dll
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/CTVMartin/Presentacion/bin/roslyn/System.ValueTuple.dll
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/CTVMartin/Presentacion/bin/roslyn/System.Xml.ReaderWriter.dll
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/CTVMartin/Presentacion/bin/roslyn/System.Xml.XmlDocument.dll
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/CTVMartin/Presentacion/bin/roslyn/System.Xml.XPath.dll
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/CTVMartin/Presentacion/bin/roslyn/System.Xml.XPath.XDocument.dll
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/CTVMartin/Presentacion/bin/roslyn/vbc.exe
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/CTVMartin/Presentacion/bin/roslyn/vbc.exe.config
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/CTVMartin/Presentacion/bin/roslyn/vbc.rsp
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/CTVMartin/Presentacion/bin/roslyn/VBCSCompiler.exe
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/CTVMartin/Presentacion/bin/roslyn/VBCSCompiler.exe.config
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/CTVMartin/Presentacion/bin/DatosSQL.dll
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/CTVMartin/Presentacion/bin/Entidades.dll
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/CTVMartin/Presentacion/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/CTVMartin/Presentacion/bin/Negocios.dll
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/CTVMartin/Presentacion/bin/Entidades.pdb
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/CTVMartin/Presentacion/bin/Negocios.pdb
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/CTVMartin/Presentacion/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/CTVMartin/Presentacion/obj/Debug/Presentacion.csproj.AssemblyReference.cache
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/CTVMartin/Presentacion/obj/Debug/Presentacion.csproj.CoreCompileInputs.cache
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/CTVMartin/Presentacion/obj/Debug/Presentacion.csproj.CopyComplete
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/CTVMartin/Presentacion/obj/Debug/Presentacion.dll
+/home/ynwrdcreso/gen/archives/work/coding/dotnet/CTVMartin/Presentacion/obj/Debug/Presentacion.pdb
